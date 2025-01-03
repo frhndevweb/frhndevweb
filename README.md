@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a 12th-grade student majoring in **TKJ** at **
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hannaaffiii&show_icons=true&count_private=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frhndevweb&show_icons=true&count_private=true&theme=dark)
 
 ## 🎯 Pinned Repositories
 
