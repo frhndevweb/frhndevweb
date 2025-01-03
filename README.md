@@ -15,11 +15,7 @@ Welcome to my GitHub profile! I'm a **12th-grade student** at **SMK Fatahillah C
 ## 🔧 Skills & Tools  
 
 ### Languages:  
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)  
 
 ### Frameworks & Libraries:  
 - **Bootstrap**  
