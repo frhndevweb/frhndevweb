@@ -1,97 +1,77 @@
-# 👋 Hi, I'm Hanafi
+# 👋 Hi, I'm Hanafi  
 
-Welcome to my GitHub profile! I'm a passionate coder currently studying in **12th grade** at **SMK Fatahillah Cipari** in the **TKJ** (Computer Networking) program. I started coding back in 7th grade and have developed a solid understanding of **web development** and **cybersecurity**.
-
-I specialize in:
-- **Frontend Development**: HTML, CSS, JavaScript
-- **Backend Development**: PHP, Python
-- **UI/UX Design**: Designing modern, responsive interfaces
+Welcome to my GitHub profile! I'm a **12th-grade student** at **SMK Fatahillah Cipari**, majoring in **TKJ** (Computer Networking). I started coding in **7th grade** and have honed my skills in **web development**, **cybersecurity**, and **UI/UX design**.  
 
 ---
 
-## 💻 Technologies & Tools
+## 💡 About Me  
 
-I work with a variety of tools and technologies to build amazing projects:
-
-- **Languages**: 
-  - HTML, CSS, JavaScript, PHP, Python
-- **Frameworks & Libraries**: 
-  - Bootstrap, SCSS
-- **Tools & Platforms**: 
-  - VSCode, Git, GitHub, Termux, Netlify
-- **Other Interests**: 
-  - Web Design, UI/UX, Cybersecurity, Ethical Hacking
+- **Passionate Coder** with expertise in both frontend and backend development.  
+- Aiming to create innovative, user-friendly applications.  
+- Enthusiastic about **ethical hacking** and improving online security.  
 
 ---
 
-## 🔥 Current Focus
+## 🔧 Skills & Tools  
 
-Right now, I’m focused on:
-- Building **[Up yoUr Img](https://github.com/frhndevweb/Upuimg)** – A web app for image uploading and sharing, built with HTML, CSS, JavaScript, and PHP.
-- Exploring **ethical hacking** and developing security-related projects.
+### Languages:  
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)  
+![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)  
 
----
+### Frameworks & Libraries:  
+- **Bootstrap**  
+- **SCSS**  
 
-## 📈 GitHub Stats
-
-Here’s a glimpse of my GitHub activity:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frhndevweb&show_icons=true&count_private=true&theme=dark)
-
----
-
-## 🎯 Pinned Repositories
-
-Check out some of my favorite projects that I'm proud of:
-
-- **[Up yoUr Img](https://github.com/frhndevweb/Upuimg)** - A modern image-sharing web app.
-- **[Pemrograman Web](https://github.com/frhndevweb/Pemrograman-Web)** - A learning platform for basic web programming concepts.
+### Tools & Platforms:  
+- **VSCode**, **Termux**, **GitHub**, **Netlify**  
 
 ---
 
-## 📫 How to Reach Me
+## 🎯 Current Focus  
 
-Feel free to reach out to me anytime:
-
-- 📧 Email: [frhndevweb@gmail.com](mailto:frhndevweb@gmail.com)
-- 🌐 Website: [frhndevweb.netlify.app](https://frhndevweb.netlify.app)
-
----
-
-## 🔗 Social Links
-
-Stay connected and follow me on social media:
-
-- [X](https://x.com/hannaaffiii)
-- [Instagram](https://instagram.com/hannaaffiii)
-- [TikTok](https://tiktok.com/@hannaaffiii)
+I'm currently working on:  
+- **[Up yoUr Img](https://github.com/frhndevweb/Upuimg)** – A modern, feature-rich image-sharing app using HTML, CSS, JavaScript, and PHP.  
+- Exploring **ethical hacking** through small security-related projects.  
 
 ---
 
-## 🌱 Collaboration & Open Source
+## 📈 GitHub Stats  
 
-I'm always open to collaborating on exciting web development and cybersecurity projects. If you have an idea or a project that you'd like to work on together, don’t hesitate to reach out!
-
----
-
-### 🚀 GitHub Contributions
-
-Check out my latest GitHub contributions and activity:
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=frhndevweb&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frhndevweb&show_icons=true&count_private=true&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frhndevweb&theme=dark)  
 
 ---
 
-### 🎨 My Skills & Badges
+## 📌 Featured Projects  
 
-Here are some of the technologies I’m skilled in:
+### **[Up yoUr Img](https://github.com/frhndevweb/Upuimg)**  
+A modern web application for image uploading and sharing with intuitive UI/UX.  
 
-![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
+### **[Pemrograman Web](https://github.com/frhndevweb/Pemrograman-Web)**  
+An educational platform for learning the fundamentals of web programming.  
 
 ---
 
-Thank you for visiting my GitHub profile! 😊
+## 🌐 Connect with Me  
+
+- 📧 **Email**: [frhndevweb@gmail.com](mailto:frhndevweb@gmail.com)  
+- 🌍 **Website**: [frhndevweb.netlify.app](https://frhndevweb.netlify.app)  
+- 🛠️ **Other Projects**: [frhndevweb.github.io](https://frhndevweb.github.io)  
+
+### Social Media:  
+- [X](https://x.com/hannaaffiii)  
+- [Instagram](https://instagram.com/hannaaffiii)  
+- [TikTok](https://tiktok.com/@hannaaffiii)  
+
+---
+
+## 🤝 Collaboration  
+
+I'm open to collaborating on **web development**, **UI/UX design**, and **cybersecurity** projects. Let’s create something amazing together!  
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories, and don’t hesitate to reach out if you have questions or collaboration ideas. 😊  
