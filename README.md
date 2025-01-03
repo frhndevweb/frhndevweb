@@ -28,7 +28,7 @@ Here are some of my favorite projects:
 - 🌐 Website: [frhndevweb.netlify.app](https://frhndevweb.netlify.app)
 
 ## 🔗 Social Links
-- [X](https://x.com/frhndevweb)
+- [X](https://x.com/hannaaffiii)
 - [Instagram](https://instagram.com/hannaaffiii)
 - [TikTok](https://tiktok.com/@hannaaffiii)
 
