@@ -38,7 +38,7 @@ Here are some of my favorite projects:
 
 ### 🚀 Check out my GitHub Contributions
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=hannaaffiii&theme=dark)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=frhndevweb&theme=dark)
 
 ---
 
