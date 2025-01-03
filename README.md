@@ -59,7 +59,7 @@ An educational platform for learning the fundamentals of web programming.
 
 - 📧 **Email**: [frhndevweb@gmail.com](mailto:frhndevweb@gmail.com)  
 - 🌍 **Website**: [frhndevweb.netlify.app](https://frhndevweb.netlify.app)  
-- 🛠️ **Other Projects**: [frhndevweb.github.io](https://frhndevweb.github.io)  
+- 🛠️ **Other Projects**: [frhndevweb.github.io](https://hannaaffiii.netlify.app.github.io)  
 
 ### Social Media:  
 - [X](https://x.com/hannaaffiii)  
