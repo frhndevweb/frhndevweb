@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a **12th-grade student** at **SMK Fatahillah C
 - **SCSS**  
 
 ### Tools & Platforms:  
-- **VSCode**, **Termux**, **GitHub**, **Netlify**  
+- **VSCode**, **Acode**, **Termux**, **GitHub**, **Netlify**
 
 ---
 
