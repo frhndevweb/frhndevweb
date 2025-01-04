@@ -34,10 +34,17 @@ Welcome to my GitHub profile! I’m a **12th-grade student** at **SMK Fatahillah
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frhndevweb&show_icons=true&count_private=true&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frhndevweb&theme=dark)  
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=frhndevweb&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180em" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frhndevweb&theme=radical&hide_border=true" alt="GitHub Streak" height="180em" />  
+</div>  
+
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frhndevweb&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180em" />  
+</div>  
 
 ---
+
 
 ## 📌 Featured Projects  
 
