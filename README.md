@@ -14,16 +14,32 @@ Welcome to my GitHub profile! I’m a **12th-grade student** at **SMK Fatahillah
 
 ## 🔧 Technical Skills  
 
-### Programming Languages  
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)  
+<div align="center">  
+  <h4>💻 Programming Languages</h4>  
+  <img src="https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />  
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />  
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />  
+  <img src="https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />  
+  <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="Python" />  
+</div>  
 
-### Frameworks & Libraries  
-- **Bootstrap**, **SCSS**  
+<div align="center">  
+  <h4>📚 Frameworks & Libraries</h4>  
+  <img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />  
+  <img src="https://img.shields.io/badge/-SCSS-pink?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />  
+</div>  
 
-### Tools & Platforms  
-- **Visual Studio Code**, **Acode**, **Termux**, **GitHub**, **Netlify**  
+<div align="center">  
+  <h4>🛠️ Tools & Platforms</h4>  
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />  
+  <img src="https://img.shields.io/badge/-Acode-black?style=for-the-badge&logo=android&logoColor=green" alt="Acode" />  
+  <img src="https://img.shields.io/badge/-Termux-black?style=for-the-badge&logo=linux&logoColor=white" alt="Termux" />  
+  <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />  
+  <img src="https://img.shields.io/badge/-Netlify-blue?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />  
+</div>  
 
 ---
+
 
 ## 🎯 Current Focus  
 
