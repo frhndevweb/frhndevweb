@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Hanafi  
 
-Welcome to my GitHub profile! I'm a **12th-grade student** at **SMK Fatahillah Cipari**, majoring in **TKJ** (Computer Networking). I’ve been passionate about coding since **7th grade**, with expertise in **web development**, **cybersecurity**, and **UI/UX design**.  
+Welcome to my GitHub profile! I’m a **12th-grade student** at **SMK Fatahillah Cipari**, specializing in **TKJ** (Computer Networking). With a strong foundation in coding since **7th grade**, I’m passionate about **web development**, **cybersecurity**, and **UI/UX design**, aiming to contribute to innovative and impactful projects.  
 
 ---
 
 ## 💡 About Me  
 
-- **Dedicated Developer** with skills in both frontend and backend technologies.  
-- Committed to crafting innovative, user-centric digital experiences.  
-- Aspiring ethical hacker focused on enhancing online security.  
+- **Full-Stack Developer** skilled in both frontend and backend technologies.  
+- Dedicated to building user-friendly, high-performance applications.  
+- Enthusiast in **ethical hacking** with a focus on improving cybersecurity measures.  
 
 ---
 
-## 🔧 Skills & Tools  
+## 🔧 Technical Skills  
 
 ### Programming Languages  
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)  
@@ -21,14 +21,14 @@ Welcome to my GitHub profile! I'm a **12th-grade student** at **SMK Fatahillah C
 - **Bootstrap**, **SCSS**  
 
 ### Tools & Platforms  
-- **VSCode**, **Acode**, **Termux**, **GitHub**, **Netlify**  
+- **Visual Studio Code**, **Acode**, **Termux**, **GitHub**, **Netlify**  
 
 ---
 
 ## 🎯 Current Focus  
 
-- **[Up yoUr Img](https://github.com/frhndevweb/Upuimg)** – A feature-rich image-sharing application.  
-- Small projects exploring **ethical hacking** and security challenges.  
+- **[Up yoUr Img](https://github.com/frhndevweb/Upuimg)** – A modern, feature-packed image-sharing web app.  
+- Experimenting with **cybersecurity projects** to enhance my skills in ethical hacking and system security.  
 
 ---
 
@@ -42,18 +42,18 @@ Welcome to my GitHub profile! I'm a **12th-grade student** at **SMK Fatahillah C
 ## 📌 Featured Projects  
 
 ### **[Up yoUr Img](https://github.com/frhndevweb/Upuimg)**  
-A web application for image uploading and sharing with a modern UI/UX.  
+An advanced image-sharing platform with a clean and intuitive user experience.  
 
 ### **[Pemrograman Web](https://github.com/frhndevweb/Pemrograman-Web)**  
-An educational platform to learn the fundamentals of web programming.  
+A comprehensive guide and learning resource for mastering web development basics.  
 
 ---
 
 ## 🌐 Connect with Me  
 
 - 📧 **Email**: [frhndevweb@gmail.com](mailto:frhndevweb@gmail.com)  
-- 🌍 **Website**: [frhndevweb.netlify.app](https://frhndevweb.netlify.app)  
-- 🛠️ **Portfolio**: [hannaaffiii.netlify.app](https://hannaaffiii.netlify.app)  
+- 🌍 **Portfolio**: [hannaaffiii.netlify.app](https://hannaaffiii.netlify.app)  
+- 🌐 **Website**: [frhndevweb.netlify.app](https://frhndevweb.netlify.app)  
 
 ### Social Media  
 - [X](https://x.com/hannaaffiii)  
@@ -62,10 +62,13 @@ An educational platform to learn the fundamentals of web programming.
 
 ---
 
-## 🤝 Let’s Collaborate!  
+## 🤝 Collaboration Opportunities  
 
-I'm excited to collaborate on **web development**, **UI/UX design**, and **cybersecurity** projects. Let’s build something exceptional together!  
+I’m open to collaborating on:  
+- **Web Development Projects** – Creating innovative and responsive web applications.  
+- **UI/UX Design** – Designing seamless user interfaces and experiences.  
+- **Cybersecurity Initiatives** – Enhancing online security through collaborative efforts.  
 
 ---
 
-Thanks for visiting! Explore my repositories and feel free to reach out. 😊  
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out for collaborations or discussions. Let’s innovate together!  
