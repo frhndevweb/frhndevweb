@@ -1,14 +1,18 @@
 # 👋 Hi, I'm Hanafi  
 
-Welcome to my GitHub profile! I’m a **12th-grade student** at **SMK Fatahillah Cipari**, specializing in **TKJ** (Computer Networking). With a strong foundation in coding since **7th grade**, I’m passionate about **web development**, **cybersecurity**, and **UI/UX design**, aiming to contribute to innovative and impactful projects.  
+Welcome to my GitHub profile!  
+I’m a **12th-grade student** at **SMK Fatahillah Cipari**, specializing in **TKJ** (Computer Networking).  
+With a strong foundation in coding since **7th grade**, I’m passionate about **web development**, **cybersecurity**, and **UI/UX design**.  
 
 ---
 
 ## 💡 About Me  
 
-- **Full-Stack Developer** skilled in both frontend and backend technologies.  
-- Dedicated to building user-friendly, high-performance applications.  
-- Enthusiast in **ethical hacking** with a focus on improving cybersecurity measures.  
+<div align="center">  
+  🚀 **Full-Stack Developer** skilled in both frontend and backend technologies.  
+  🔒 Enthusiast in **ethical hacking** with a focus on cybersecurity.  
+  🎨 Dedicated to creating seamless **UI/UX designs** for innovative applications.  
+</div>  
 
 ---
 
@@ -40,11 +44,12 @@ Welcome to my GitHub profile! I’m a **12th-grade student** at **SMK Fatahillah
 
 ---
 
-
 ## 🎯 Current Focus  
 
-- **[Up yoUr Img](https://github.com/frhndevweb/Upuimg)** – A modern, feature-packed image-sharing web app.  
-- Experimenting with **cybersecurity projects** to enhance my skills in ethical hacking and system security.  
+<div align="center">  
+  🛠 **[Up yoUr Img](https://github.com/frhndevweb/Upuimg)** – A modern image-sharing platform with rich features.  
+  🔒 Exploring **cybersecurity projects** to sharpen ethical hacking skills.  
+</div>  
 
 ---
 
@@ -61,37 +66,39 @@ Welcome to my GitHub profile! I’m a **12th-grade student** at **SMK Fatahillah
 
 ---
 
-
 ## 📌 Featured Projects  
 
-### **[Up yoUr Img](https://github.com/frhndevweb/Upuimg)**  
-An advanced image-sharing platform with a clean and intuitive user experience.  
-
-### **[Pemrograman Web](https://github.com/frhndevweb/Pemrograman-Web)**  
-A comprehensive guide and learning resource for mastering web development basics.  
+<div align="center">  
+  📌 **[Up yoUr Img](https://github.com/frhndevweb/Upuimg)** – A clean, user-friendly image-sharing platform.  
+  📌 **[Pemrograman Web](https://github.com/frhndevweb/Pemrograman-Web)** – A learning resource for mastering web development.  
+</div>  
 
 ---
 
 ## 🌐 Connect with Me  
 
-- 📧 **Email**: [frhndevweb@gmail.com](mailto:frhndevweb@gmail.com)  
-- 🌍 **Portfolio**: [hannaaffiii.netlify.app](https://hannaaffiii.netlify.app)  
-- 🌐 **Website**: [frhndevweb.netlify.app](https://frhndevweb.netlify.app)  
+<div align="center">  
+  📧 **Email**: [frhndevweb@gmail.com](mailto:frhndevweb@gmail.com)  
+  🌍 **Portfolio**: [hannaaffiii.netlify.app](https://hannaaffiii.netlify.app)  
+  🌐 **Website**: [frhndevweb.netlify.app](https://frhndevweb.netlify.app)  
 
-### Social Media  
-- [X](https://x.com/hannaaffiii)  
-- [Instagram](https://instagram.com/hannaaffiii)  
-- [TikTok](https://tiktok.com/@hannaaffiii)  
+  <h4>📱 Social Media</h4>  
+  <a href="https://x.com/hannaaffiii"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>  
+  <a href="https://instagram.com/hannaaffiii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>  
+  <a href="https://tiktok.com/@hannaaffiii"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>  
+</div>  
 
 ---
 
 ## 🤝 Collaboration Opportunities  
 
-I’m open to collaborating on:  
-- **Web Development Projects** – Creating innovative and responsive web applications.  
-- **UI/UX Design** – Designing seamless user interfaces and experiences.  
-- **Cybersecurity Initiatives** – Enhancing online security through collaborative efforts.  
+<div align="center">  
+  I’m open to collaborating on:  
+  - **Web Development Projects** – Creating innovative and responsive applications.  
+  - **UI/UX Design** – Building user-centered designs for seamless experiences.  
+  - **Cybersecurity Initiatives** – Strengthening online security through collaborative efforts.  
+</div>  
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out for collaborations or discussions. Let’s innovate together!  
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out for collaborations or discussions. 🚀  
