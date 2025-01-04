@@ -1,64 +1,95 @@
 # 👋 Hi, I'm Hanafi  
 
-Welcome to my GitHub profile!  
-I’m a **12th-grade student** at **SMK Fatahillah Cipari**, specializing in **TKJ** (Computer Networking).  
-With coding experience since **7th grade**, I’m passionate about **web development**, **cybersecurity**, and **UI/UX design**.  
+Welcome to my GitHub profile! I’m a **12th-grade student** at **SMK Fatahillah Cipari**, specializing in **TKJ** (Computer Networking). With a strong foundation in coding since **7th grade**, I’m passionate about **web development**, **cybersecurity**, and **UI/UX design**, aiming to contribute to innovative and impactful projects.  
 
 ---
 
 ## 💡 About Me  
 
-- **Full-Stack Developer** with a focus on both frontend and backend development.  
-- Interested in **ethical hacking** and cybersecurity.  
-- Passionate about creating intuitive and engaging **UI/UX designs**.  
+- **Full-Stack Developer** skilled in both frontend and backend technologies.  
+- Dedicated to building user-friendly, high-performance applications.  
+- Enthusiast in **ethical hacking** with a focus on improving cybersecurity measures.  
 
 ---
 
 ## 🔧 Technical Skills  
 
-### Programming Languages:  
-- **HTML5**, **CSS3**, **JavaScript**, **PHP**, **Python**  
+<div align="center">  
+  <h4>💻 Programming Languages</h4>  
+  <img src="https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />  
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />  
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />  
+  <img src="https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />  
+  <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="Python" />  
+</div>  
 
-### Frameworks & Libraries:  
-- **Bootstrap**, **SCSS**  
+<div align="center">  
+  <h4>📚 Frameworks & Libraries</h4>  
+  <img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />  
+  <img src="https://img.shields.io/badge/-SCSS-pink?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />  
+</div>  
 
-### Tools & Platforms:  
-- **VSCode**, **Acode**, **Termux**, **GitHub**, **Netlify**  
+<div align="center">  
+  <h4>🛠️ Tools & Platforms</h4>  
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />  
+  <img src="https://img.shields.io/badge/-Acode-black?style=for-the-badge&logo=android&logoColor=green" alt="Acode" />  
+  <img src="https://img.shields.io/badge/-Termux-black?style=for-the-badge&logo=linux&logoColor=white" alt="Termux" />  
+  <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />  
+  <img src="https://img.shields.io/badge/-Netlify-blue?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />  
+</div>  
+
+---
+
+## 🎯 Current Focus  
+
+- **[Up yoUr Img](https://github.com/frhndevweb/Upuimg)** – A modern, feature-packed image-sharing web app.  
+- Experimenting with **cybersecurity projects** to enhance my skills in ethical hacking and system security.  
 
 ---
 
 ## 📈 GitHub Stats  
 
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=frhndevweb&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="150px" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frhndevweb&theme=github_dark&hide_border=true" alt="GitHub Streak" height="150px" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=frhndevweb&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180em" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frhndevweb&theme=radical&hide_border=true" alt="GitHub Streak" height="180em" />  
+</div>  
+
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frhndevweb&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180em" />  
 </div>  
 
 ---
 
 ## 📌 Featured Projects  
 
-- **[Up yoUr Img](https://github.com/frhndevweb/Upuimg)**: A modern, feature-rich image-sharing app.  
-- **[Pemrograman Web](https://github.com/frhndevweb/Pemrograman-Web)**: A platform for learning web programming fundamentals.  
+### **[Up yoUr Img](https://github.com/frhndevweb/Upuimg)**  
+An advanced image-sharing platform with a clean and intuitive user experience.  
+
+### **[Pemrograman Web](https://github.com/frhndevweb/Pemrograman-Web)**  
+A comprehensive guide and learning resource for mastering web development basics.  
 
 ---
 
 ## 🌐 Connect with Me  
 
-- **Email**: [frhndevweb@gmail.com](mailto:frhndevweb@gmail.com)  
-- **Portfolio**: [hannaaffiii.netlify.app](https://hannaaffiii.netlify.app)  
-- **Website**: [frhndevweb.netlify.app](https://frhndevweb.netlify.app)  
-- **Social Media**:  
-  [X](https://x.com/hannaaffiii) | [Instagram](https://instagram.com/hannaaffiii) | [TikTok](https://tiktok.com/@hannaaffiii)  
+- 📧 **Email**: [frhndevweb@gmail.com](mailto:frhndevweb@gmail.com)  
+- 🌍 **Portfolio**: [hannaaffiii.netlify.app](https://hannaaffiii.netlify.app)  
+- 🌐 **Website**: [frhndevweb.netlify.app](https://frhndevweb.netlify.app)  
+
+### Social Media  
+- [X](https://x.com/hannaaffiii)  
+- [Instagram](https://instagram.com/hannaaffiii)  
+- [TikTok](https://tiktok.com/@hannaaffiii)  
 
 ---
 
 ## 🤝 Collaboration Opportunities  
 
-- **Web Development**: Building modern, responsive applications.  
-- **UI/UX Design**: Crafting intuitive and user-centered designs.  
-- **Cybersecurity**: Exploring ethical hacking and securing systems.  
+I’m open to collaborating on:  
+- **Web Development Projects** – Creating innovative and responsive web applications.  
+- **UI/UX Design** – Designing seamless user interfaces and experiences.  
+- **Cybersecurity Initiatives** – Enhancing online security through collaborative efforts.  
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaborations. 🚀  
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out for collaborations or discussions. Let’s innovate together!  
