@@ -42,7 +42,8 @@ Welcome to my GitHub profile! I’m a **12th-grade student** at **SMK Fatahillah
 
 ## 🎯 Current Focus  
 
-- **[Up yoUr Img](https://upuimg.kesug.com)** – A modern, feature-packed image-sharing web app.  
+- **[Up yoUr Img](https://upuimg.kesug.com)** – A modern, feature-packed image-sharing web app.
+- **[Pemrograman Web](https://frhndevweb.github.io/Pemrograman-Web)** - Free web application to learn basic web programming
 - Experimenting with **cybersecurity projects** to enhance my skills in ethical hacking and system security.  
 
 ---
@@ -65,8 +66,8 @@ Welcome to my GitHub profile! I’m a **12th-grade student** at **SMK Fatahillah
 ### **[Up yoUr Img](https://github.com/frhndevweb/Upuimg)**  
 An advanced image-sharing platform with a clean and intuitive user experience.  
 
-### **[Pemrograman Web](https://github.com/frhndevweb/Pemrograman-Web)**  
-A comprehensive guide and learning resource for mastering web development basics.  
+### **[Pemrograman Web](https://www.mediafire.com/folder/nechnb1zewov5/Pemrograman_Web)**  
+Free app to learn basic web programming.  
 
 ---
 
