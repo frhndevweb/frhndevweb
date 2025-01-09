@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I’m a **12th-grade student** at **SMK Fatahillah
 
 ## 🎯 Current Focus  
 
-- **[Up yoUr Img](https://github.com/frhndevweb/Upuimg)** – A modern, feature-packed image-sharing web app.  
+- **[Up yoUr Img](https://upuimg.kesug.com)** – A modern, feature-packed image-sharing web app.  
 - Experimenting with **cybersecurity projects** to enhance my skills in ethical hacking and system security.  
 
 ---
