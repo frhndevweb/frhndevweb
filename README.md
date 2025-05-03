@@ -74,7 +74,7 @@ Free app to learn basic web programming.
 ## 🌐 Connect with Me  
 
 - 📧 **Email**: [frhndevweb@gmail.com](mailto:frhndevweb@gmail.com)  
-- 🌍 **Portfolio**: [frhndevweb.netlify.app](https://frhndevweb.netlify.app)  
+- 🌍 **Portfolio**: [frhndevweb.my.id](https://frhndevweb.my.id)  
 - 🌐 **Website**: [hannaaffiii.netlify.app](https://hannaaffiii.netlify.app)  
 
 ### Social Media  
