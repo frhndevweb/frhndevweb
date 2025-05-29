@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hanafi  
 
-Welcome to my GitHub profile! I’m a **12th-grade student** at **SMK Fatahillah Cipari**, specializing in **TKJ** (Computer Networking). With a strong foundation in coding since **7th grade**, I’m passionate about **web development**, **cybersecurity**, and **UI/UX design**, aiming to contribute to innovative and impactful projects.  
+Welcome to my GitHub profile! A strong foundation in coding since **7th grade**, I’m passionate about **web development**, **cybersecurity**, and **UI/UX design**, aiming to contribute to innovative and impactful projects.  
 
 ---
 
