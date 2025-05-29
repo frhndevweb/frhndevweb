@@ -26,7 +26,8 @@ Welcome to my GitHub profile! A strong foundation in coding since **7th grade**,
 <div align="center">  
   <h4>📚 Frameworks & Libraries</h4>  
   <img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />  
-  <img src="https://img.shields.io/badge/-SCSS-pink?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />  
+  <img src="https://img.shields.io/badge/-SCSS-pink?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" /> 
+  <img src="https://img.shields.io/badge/-Tailwind?style=for-the-badge&logo=sass&logoColor=white" alt="Tailwind" /> 
 </div>  
 
 <div align="center">  
