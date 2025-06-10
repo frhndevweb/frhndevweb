@@ -6,7 +6,7 @@ Welcome to my GitHub profile! A strong foundation in coding since **7th grade**,
 
 ## 💡 About Me  
 
-- **Full-Stack Developer** skilled in both frontend and backend technologies.  
+- **Frontend Developer** skilled in both HTML5 CSS3 and JavaScript technologies.  
 - Dedicated to building user-friendly, high-performance applications.  
 - Enthusiast in **ethical hacking** with a focus on improving cybersecurity measures.  
 
