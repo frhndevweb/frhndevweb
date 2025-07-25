@@ -1,8 +1,6 @@
-<h1 align="center">👋 Halo, Saya Hanafi</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=800&color=58A6FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Frontend+Developer;UI%2FUX+Designer;Discord+Bot+Administrator" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=800&color=58A6FF&center=true&vCenter=true&width=435&lines=Farhan+Hanafi" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <b>Berdedikasi dalam pengembangan web, desain UI/UX modern, dan keamanan siber sejak dini.</b>
