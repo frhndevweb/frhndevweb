@@ -24,12 +24,7 @@ I have experience working with various web technologies and enjoy building both 
 
 ![Others](https://skillicons.dev/icons?i=npm,yarn,bash,github,netlify)
 
-### Statistics
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=frhndevweb&theme=react&show_icons=true&)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frhndevweb&theme=react&card_width=470)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frhndevweb&card_width=495&langs_count=7&layout=compact&theme=react)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4daec8,100:091519&height=100&section=footer" />
+
