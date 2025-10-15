@@ -12,19 +12,31 @@ I have experience working with various web technologies and enjoy building both 
 [![](https://img.shields.io/github/followers/frhndevweb?label=GitHub%20Followers)](https://github.com/frhndevweb)
 
 
-### Skills
+### 🖥️ Frontend
 
-![My Skills](https://skillicons.dev/icons?perline=10&i=html,css,js,bootstrap,tailwind,nodejs,php,firebase,discord)
+![Frontend Skills](https://skillicons.dev/icons?perline=10&i=html,css,js,ts,bootstrap,tailwind,react,nextjs,vue,nuxt,svelte,angular,sass,vite,threejs,redux,astro,webpack)
 
-### Tools
+---
 
-![My Tools](https://skillicons.dev/icons?i=vscode,linux)
+### ⚙️ Backend
 
-### Others
+![Backend Skills](https://skillicons.dev/icons?perline=10&i=nodejs,express,php,laravel,python,flask,django,fastapi,java,spring,mysql,postgresql,mongodb,firebase,supabase,sqlite,redis,graphql,prisma)
 
-![Others](https://skillicons.dev/icons?i=npm,yarn,bash,github,netlify)
+---
+
+### 🧰 Tools
+
+![Tools](https://skillicons.dev/icons?perline=10&i=vscode,git,github,linux,postman,docker,nginx,vercel,netlify,heroku,cloudflare,aws,gcp,azure,jetbrains,figma,notion)
+
+---
+
+### 🧠 Others
+
+![Others](https://skillicons.dev/icons?perline=10&i=npm,yarn,pnpm,bash,powershell,webpack,eslint,prettier,vitest,jest,cypress,markdown,obsidian)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frhndevweb&card_width=495&langs_count=7&layout=compact&theme=react)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4daec8,100:091519&height=100&section=footer" />
+
 
