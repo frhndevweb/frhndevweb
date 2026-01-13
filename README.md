@@ -14,7 +14,7 @@ I have experience working with various web technologies and enjoy building both 
 ### Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=61DAFB" /> 
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
@@ -58,5 +58,6 @@ I have experience working with various web technologies and enjoy building both 
 ![Top Langs](https://frhndevweb-web.vercel.app/api/top-langs/?username=frhndevweb&card_width=495&langs_count=7&layout=compact&theme=react)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4daec8,100:091519&height=100&section=footer" />
+
 
 
