@@ -20,19 +20,11 @@ I have experience working with various web technologies and enjoy building both 
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Nuxt.js-000000?style=for-the-badge&logo=nuxtdotjs&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=svelte&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=61DAFB" />
   <br/>
   <img src="https://img.shields.io/badge/Tailwind CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Webpack-000000?style=for-the-badge&logo=webpack&logoColor=61DAFB" />
   <br/>
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=61DAFB" />
@@ -41,14 +33,12 @@ I have experience working with various web technologies and enjoy building both 
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=61DAFB" />
   <br/>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/VS Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=61DAFB" />
 </div>
@@ -62,4 +52,5 @@ I have experience working with various web technologies and enjoy building both 
 ![Farhan's GitHub stats](https://frhndevweb-web.vercel.app/api?username=frhndevweb&show_icons=true&theme=radical)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4daec8,100:091519&height=100&section=footer" />
+
 
