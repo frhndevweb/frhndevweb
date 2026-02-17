@@ -43,14 +43,7 @@ I have experience working with various web technologies and enjoy building both 
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=61DAFB" />
 </div>
 
-### Top Language
-
-![Top Langs](https://frhndevweb-web.vercel.app/api/top-langs/?username=frhndevweb&card_width=495&langs_count=7&layout=compact&theme=radical)
-
-### Stats
-
-![Farhan's GitHub stats](https://frhndevweb-web.vercel.app/api?username=frhndevweb&show_icons=true&theme=radical)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4daec8,100:091519&height=100&section=footer" />
+
 
 
