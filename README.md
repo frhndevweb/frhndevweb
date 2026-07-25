@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Farhan%20Hanafi&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Fullstack%20Developer&descSize=30&descAlignY=85&section=header" />
  
-I'm Farhan Hanafi, a graduate of SMK majoring in Computer and Network Engineering (TKJ). I specialize in frontend development, creating modern, responsive, and user-friendly web interfaces.  
-I have experience working with various web technologies and enjoy building both personal and collaborative projects.  
+I'm Farhan Hanafi
 
 [![Email](https://img.shields.io/badge/-000000?style=for-the-badge&logo=gmail&logoColor=61DAFB&labelColor=000000)](mailto:farhanhanafi656@gmail.com)
 [![Instagram](https://img.shields.io/badge/-000000?style=for-the-badge&logo=instagram&logoColor=61DAFB&labelColor=000000)](https://instagram.com/hannaaffiii)
